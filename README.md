@@ -1,8 +1,6 @@
 PoisonShell
 ===========
 
-PoisonShell
-
 A simple phpshell<br>
 
 - == Features == -<br>
